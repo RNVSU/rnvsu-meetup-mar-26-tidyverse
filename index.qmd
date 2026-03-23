@@ -1,0 +1,132 @@
+---
+title: "Introduction to [`{tidyverse}`](https://tidyverse.org)"
+author: "[RNVSU](https://www.meetup.com/r-nvsu/) | [Dr. Kelly N. Bodwin](https://www.kelly-bodwin.com)"
+date: 2026-03-24
+date-format: "MMMM D, YYYY"
+format:
+  revealjs:
+    theme: [default, styles.scss]
+    logo: images/logo.png
+    footer: "<span class='footer-icons'>
+<a href='https://github.com/RNVSU' class='github-icon'>{{< fa brands github >}}</a> |
+[https://rnvsu.github.io/rnvsu-meetup-mar-26-tidyverse/](https://rnvsu.github.io/rnvsu-meetup-mar-26-tidyverse/) | <a href='https://rnvsu.github.io/rnvsu-meetup-mar-26-tidyverse/' class='slide-icon'>{{< iconify streamline-freehand:performance-presentation-graph >}}</a>
+</span>"
+    embed-resources: true
+title-slide-attributes:
+  data-background-image: images/bg.png
+  data-background-size: 30%
+  data-background-position: 950px 150px
+  style: "margin-left: -80px;"
+---
+## 📢 Zoom Meetup Event Reminders {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+<br>
+
+#### 🎥 Recording Notice
+
+This meetup will be recorded for documentation and learning purposes.
+
+#### 🤝 Inclusive Learning Space
+
+✅ Be respectful and supportive\
+✅ Participate and engage in discussions
+:::
+
+::: {.column width="50%"}
+<br>
+
+#### 💬 Communication Etiquette
+
+✅ Use chat courteously\
+✅ Raise your hand if you want to speak
+
+#### 🚫 Not Allowed
+
+❌ Harassment or offensive comments\
+❌ Disruptive behavior
+:::
+:::::
+
+⭐ Let’s have a fun, engaging, and meaningful learning session!
+
+## The R User Group of Nueva Vizcaya State University ([RNVSU](https://www.meetup.com/r-nvsu/)) {.smaller}
+
+<br>
+
+🏛 **Sponsors**
+
+-   [R Consortium](https://r-consortium.org)
+-   [Nueva Vizcaya State University](https://www.nvsu.edu.ph)
+
+🔭 **Our Vision:** RNVSU as a thriving hub for global collaboration, data science, and open science, driving innovation and sustainable development in the province.
+
+⭐ Join us as we learn, collaborate, and create impact!
+
+## Meet the RNVSU Organizers {.smaller}
+
+![](images/orville.png){.absolute top="80" left="0" height="60%"}
+
+![](images/richard.png){.absolute top="80" left="210" height="60%"}
+
+![](images/mart.png){.absolute top="80" left="420" height="60%"}
+
+![](images/romnick.png){.absolute top="80" left="630" height="60%"}
+
+![](images/mer.png){.absolute top="80" left="840" height="60%"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: {style="font-size: 70%;"}
+Orville D. Hombrebueno [Richard J. Taclay]{style="padding-left: 1em;"} [Mart Jasper G. Antonio]{style="padding-left: 2.5em;"} [Romnick L. Pascua]{style="padding-left: 1.8em;"} [Mer Joseph Q. Caranza]{style="padding-left: 1.8em;"}
+:::
+
+![](images/cte.jpg){.absolute bottom="30" left="15" height="12%"}
+
+![](images/cas.png){.absolute bottom="30" left="350" height="12%"}
+
+![](images/cferm.png){.absolute bottom="30" left="774" height="12%"}
+
+## {{< fa handshake regular >}} Event Organizers
+
+![](images/mms.jpeg){.absolute bottom="250" left="0" height="30%"}
+
+![](images/mc.jpg){.absolute bottom="250" left="200" height="30%"}
+
+![](images/4f.jpeg){.absolute bottom="250" left="360" height="30%"}
+
+![](images/zbr.jpeg){.absolute bottom="250" left="600" height="30%"}
+
+![](images/mhs.jpeg){.absolute bottom="250" left="830" height="30%"}
+
+## [{{< fa brands meetup >}}](https://www.meetup.com/r-nvsu/) Future Meetup Events {.meetup-heading}
+
+<br>
+
+#### March Meetup Events
+
+- <span class="normal-link">
+[Talk 2](https://www.meetup.com/r-nvsu/events/313337627/?eventOrigin=group_upcoming_events):
+</span> [`{tidyplots}`](https://tidyplots.org) for easy data visualization
+- <span class="normal-link"> [Talk 3](https://www.meetup.com/r-nvsu/events/313596851/): </span> Introduction to [`{tidymodels}`](https://www.tidymodels.org)
+
+#### <span class="normal-link"> [April Meetup Event](https://www.meetup.com/r-nvsu/events/313601010/) </span>
+
+- Getting Started with <span class="normal-link"> [Quarto](https://quarto.org): </span> A Hands-On Workshop
+
+## 🎙️Introduction to the Speaker
+
+<iframe data-external="1" src="https://www.kelly-bodwin.com" width="1200" height="500" style="border: 1px solid #ccc" frameborder="0">
+</iframe>

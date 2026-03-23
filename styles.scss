@@ -1,0 +1,81 @@
+/*-- scss:defaults --*/
+$presentation-title-slide-text-align: left;           
+
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 240px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+/* styles.css */
+.title {
+  font-size: 120px !important; /* Adjust the size as needed */
+}
+
+/* styles.css */
+.subtitle {
+    font-size: 90px !important; /* Adjust the size as needed */
+}
+
+.quarto-title-author-name {
+  font-size: 50px;
+}
+
+.date {
+  font-size: 40px;
+}
+
+.reveal .footer {
+  font-size: 50px;
+}
+
+/*-- scss:rules --*/
+.reveal .footer {
+  font-size: .7em !important; // Increase size as needed
+  color: #000;                // Optional: adjust color
+}
+
+.reveal .meetup-heading a {
+  color: #ED1C40 !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+}
+
+.reveal .meetup-heading a:hover {
+  color: #ED1C40 !important;
+}
+
+.reveal .footer-icons a {
+  text-decoration: none !important;
+}
+
+/* GitHub black */
+.reveal .footer-icons .github-icon {
+  color: #000000 !important;
+}
+
+/* Prevent hover color change */
+.reveal .footer-icons .github-icon {
+  color: #000000 !important;
+}
+
+/* Slide black */
+.reveal .footer-icons .slide-icon {
+  color: #000000 !important;
+}
+
+/* Prevent hover color change */
+.reveal .footer-icons .slide-icon {
+  color: #000000 !important;
+}
+
+.reveal .normal-link a {
+  color: var(--r-link-color) !important;
+  text-decoration: underline;
+}
+
+.reveal .normal-link a:hover {
+  color: var(--r-link-color) !important;  // prevent hover color change
+  text-decoration: underline;
+}
