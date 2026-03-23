@@ -111,7 +111,7 @@ Orville D. Hombrebueno [Richard J. Taclay]{style="padding-left: 1em;"} [Mart Jas
 
 ![](images/mhs.jpeg){.absolute bottom="250" left="830" height="30%"}
 
-## [{{< fa brands meetup >}}](https://www.meetup.com/r-nvsu/) Future Meetup Events {.meetup-heading}
+## [{{< fa brands meetup >}}](https://www.meetup.com/r-nvsu/) Future Meetup Events {.meetup-heading .smaller}
 
 <br>
 
@@ -119,12 +119,19 @@ Orville D. Hombrebueno [Richard J. Taclay]{style="padding-left: 1em;"} [Mart Jas
 
 - <span class="normal-link">
 [Talk 2](https://www.meetup.com/r-nvsu/events/313337627/?eventOrigin=group_upcoming_events):
-</span> [`{tidyplots}`](https://tidyplots.org) for easy data visualization
-- <span class="normal-link"> [Talk 3](https://www.meetup.com/r-nvsu/events/313596851/): </span> Introduction to [`{tidymodels}`](https://www.tidymodels.org)
+</span> [`{tidyplots}`](https://tidyplots.org) for easy data visualization | <span class="normal-link"> [Jan Broder Engler](https://jbengler.de) </span>
+
+
+    March 25, 2026 | Wednesday | 7:00-8:30 PM (PHT)
+- <span class="normal-link"> [Talk 3](https://www.meetup.com/r-nvsu/events/313596851/): </span> Introduction to [`{tidymodels}`](https://www.tidymodels.org) | <span class="normal-link"> [Emil Hvitfeldt](https://emilhvitfeldt.com) </span>
+
+    March 27, 2026 | Friday | 9:30-11:00 PM (PHT)
 
 #### <span class="normal-link"> [April Meetup Event](https://www.meetup.com/r-nvsu/events/313601010/) </span>
 
-- Getting Started with <span class="normal-link"> [Quarto](https://quarto.org): </span> A Hands-On Workshop
+- Getting Started with <span class="normal-link"> [Quarto](https://quarto.org): </span> A Hands-On Workshop | <span class="normal-link"> [Isabella Velásquez](https://ivelasq.rbind.io/about) </span>
+
+    April 29, 2026 | Wednesday | 9:30-11:00 PM (PHT)
 
 ## 🎙️Introduction to the Speaker
 
