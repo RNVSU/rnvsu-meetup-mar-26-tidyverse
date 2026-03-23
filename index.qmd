@@ -132,7 +132,7 @@ Orville D. Hombrebueno [Richard J. Taclay]{style="padding-left: 1em;"} [Mart Jas
 - Getting Started with <span class="normal-link"> [Quarto](https://quarto.org): </span> A Hands-On Workshop | <span class="normal-link"> [Isabella Velásquez](https://ivelasq.rbind.io/about) </span>
 
     April 29, 2026 | Wednesday | 9:30-11:00 PM (PHT)
-
+    
 ## 🎙️Introduction to the Speaker
 
 <iframe data-external="1" src="https://www.kelly-bodwin.com" width="1200" height="500" style="border: 1px solid #ccc" frameborder="0">
